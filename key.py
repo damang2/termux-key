@@ -33,11 +33,5 @@ sleep(1)
 print(b+'\n[!] Setting up..')
 sleep(2)
 os.system('termux-reload-settings')
-print(a+'[!] Successfully !! ^^'+c+'\n\nWELCOME !!
-Ngayon ay upgraded na ang key sa
-termux mo. kailangan mo ito para
-masundan mo ang mga darating na
-mga tutorial
-TERMUX TRICKS & TUT :*\n\n')
-
+print(a+'[!] Successfully !!
 
