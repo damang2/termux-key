@@ -6,10 +6,10 @@ a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
-print(a+'\t  KEY MODE')
-print(b+'\t    DAMANG')
-print('\t TERMUX TRICKS & TUT')
-print(a+'+'*40)
+print(a+'\tTERMUX SHORTCUT KEY')
+print(b+'\tDAMANG')
+print('\t  TERMUX TRICKS & TUT')
+print(a+'+'🔑40)
 print('\nProses..')
 sleep(1)
 print(b+'\n[!] making termux properties directory..')
@@ -33,12 +33,12 @@ sleep(1)
 print(b+'\n[!] Setting up..')
 sleep(2)
 os.system('termux-reload-settings')
-print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi https://t.me/om_karjok untuk requests\natau pertanyaan, atau hubungi https://t.me/CRABS_ID\nThanks :*\n\n')
-
-
-# WELCOME !!
-# Ngayon ay upgraded ns ang key sa
+print(a+'[!] Successfully !! ^^'+c+'\n\n
+#WELCOME !!
+# Ngayon ay upgraded na ang key sa
 # termux mo. kailangan mo ito para
 # masundan mo ang mga darating na
 # mga tutorial
-# TERMUX TRICKS & TUT
+# TERMUX TRICKS & TUT :*\n\n')
+
+
