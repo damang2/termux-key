@@ -8,9 +8,9 @@ c ='\033[0m'
 os.system('clear')
 
 print(a+'🔑'*25)
-print(a+'\t    TERMUX SHORTCUT KEY')
-print(a+'\t    DAMANG             ')
-print(a+'\t    TERMUX TRICKS & TUT')
+print(a+'\t      TERMUX SHORTCUT KEY')
+print(a+'\t      DAMANG             ')
+print(a+'\t      TERMUX TRICKS & TUT')
 print(a+'🔑'*25)
 print('\nProses..')
 sleep(1)
