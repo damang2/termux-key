@@ -6,10 +6,12 @@ a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
+
+print(a+'🔑'*25)
 print(a+'\tTERMUX SHORTCUT KEY')
-print(b+'\tDAMANG')
-print('\t  TERMUX TRICKS & TUT')
-print(a+'🔑'*45)
+print(a+'\tDAMANG             ')
+print(a+'\tTERMUX TRICKS & TUT')
+print(a+'🔑'*25)
 print('\nProses..')
 sleep(1)
 print(b+'\n[!] making termux properties directory..')
